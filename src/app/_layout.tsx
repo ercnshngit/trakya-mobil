@@ -26,7 +26,6 @@ export default function Layout() {
       <Tabs
         screenOptions={{
           tabBarStyle: {
-            marginBottom: 10,
             paddingTop: 10,
           },
           header: () => null,
